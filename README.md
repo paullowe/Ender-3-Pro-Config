@@ -1,1 +1,1 @@
-This is my configuration files for an Ender 3 Pro with a SKR Mini E3 v1.2, a BTT TFT35 display, BLTouch and a Mirco Swiss hotend. The configuration files for the display and Cura are also included.
+This is my configuration files for an Ender 3 Pro with a SKR Mini E3 v1.2, a BTT TFT35 display, BLTouch and a Mirco Swiss hotend. The configuration files for the display and Cura are also included. Also I am able to use the full 512K of the boards memory, you might have to disable some features if your board can not.
